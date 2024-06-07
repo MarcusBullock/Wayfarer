@@ -1,40 +1,64 @@
 {
-    "cities": [
-        {
-            "cityName": "Lisbon",
-            "country": "Portugal",
-            "emoji": "🇵🇹",
-            "date": "2027-10-31T15:59:59.138Z",
-            "notes": "My favourite city so far!",
-            "position": {
-                "lat": 38.727881642324164,
-                "lng": -9.140900099907554
-            },
-            "id": 73930385
-        },
-        {
-            "cityName": "Madrid",
-            "country": "Spain",
-            "emoji": "🇪🇸",
-            "date": "2027-07-15T08:22:53.976Z",
-            "notes": "It is a place.",
-            "position": {
-                "lat": 40.46635901755316,
-                "lng": -3.7133789062500004
-            },
-            "id": 17806751
-        },
-        {
-            "cityName": "Berlin",
-            "country": "Germany",
-            "emoji": "🇩🇪",
-            "date": "2027-02-12T09:24:11.863Z",
-            "notes": "It is a location that I went to.",
-            "position": {
-                "lat": 52.53586782505711,
-                "lng": 13.376933665713324
-            },
-            "id": 98443197
-        }
-    ]
+  "cities": [
+    {
+      "id": "2b0d",
+      "cityName": "Terrasson-Lavilledieu",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-07T14:34:29.458Z",
+      "notes": "Eggs de von thomas",
+      "position": {
+        "lat": 45.12715354748949,
+        "lng": 1.3032317161560059
+      }
+    },
+    {
+      "id": "ca53",
+      "cityName": "Nairobi",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2024-06-07T14:52:47.061Z",
+      "notes": "poo",
+      "position": {
+        "lat": -1.3511930983018765,
+        "lng": 36.79321289062501
+      }
+    },
+    {
+      "id": "a451",
+      "cityName": "Amalfi",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-06-07T14:59:35.270Z",
+      "notes": "eggs",
+      "position": {
+        "lat": 40.62333412763723,
+        "lng": 14.584350585937502
+      }
+    },
+    {
+      "id": "322a",
+      "cityName": "Tunis",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "date": "2024-06-07T15:16:46.193Z",
+      "notes": "eggs",
+      "position": {
+        "lat": 36.787291466820015,
+        "lng": 10.178833007812502
+      }
+    },
+    {
+      "id": "f150",
+      "cityName": "Beirut",
+      "country": "Lebanon",
+      "emoji": "🇱🇧",
+      "date": "2024-06-07T15:17:15.964Z",
+      "notes": "",
+      "position": {
+        "lat": 33.89492727091687,
+        "lng": 35.47880172729493
+      }
+    }
+  ]
 }
