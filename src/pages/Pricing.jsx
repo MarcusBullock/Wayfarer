@@ -11,12 +11,12 @@ export default function Product() {
                     <h2>
                         Simple pricing.
                         <br />
-                        Just $9/month.
+                        With affordable plans starting at $8 billion /month.
                     </h2>
                     <p>
-                        Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. Vitae vel labore mollitia iusto. Recusandae quos
-                        provident, laboriosam fugit voluptatem iste.
+                        We care infinitely about your money. That&apos;s why
+                        we&apos;re going to take it from you and deposit it into
+                        our bank account.
                     </p>
                 </div>
                 <img
