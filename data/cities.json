@@ -71,6 +71,54 @@
         "lat": 40.60561205826018,
         "lng": -1.2304687500000002
       }
+    },
+    {
+      "id": "75ea",
+      "cityName": "Piscataway",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-27T20:35:13.665Z",
+      "notes": "",
+      "position": {
+        "lat": 38.685509760012025,
+        "lng": -76.99218750000001
+      }
+    },
+    {
+      "id": "4c25",
+      "cityName": "Driftwood",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-27T20:35:17.511Z",
+      "notes": "",
+      "position": {
+        "lat": 40.17887331434698,
+        "lng": -100.67871093750001
+      }
+    },
+    {
+      "id": "afd1",
+      "cityName": "West Santa Clara",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-27T20:35:19.711Z",
+      "notes": "",
+      "position": {
+        "lat": 37.33522435930641,
+        "lng": -122.12402343750001
+      }
+    },
+    {
+      "id": "7dc7",
+      "cityName": "Texcoco de Mora",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-06-27T20:35:23.067Z",
+      "notes": "",
+      "position": {
+        "lat": 19.476950206488414,
+        "lng": -98.74511718750001
+      }
     }
   ]
 }
