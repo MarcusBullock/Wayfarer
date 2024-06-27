@@ -1,16 +1,16 @@
-.product {
+.pricing {
   height: 100vh;
   background-image: linear-gradient(
       rgba(36, 42, 46, 0.8),
       rgba(36, 42, 46, 0.8)
     ),
-    url("../../public/img-1.jpg");
+    url("../../public/img-2.jpg");
   background-size: cover;
   background-position: center;
   padding: 2.5rem 5rem;
 }
 
-.product section {
+.pricing section {
   display: flex;
   flex-direction: column;
   height: 55%;
@@ -22,27 +22,17 @@
   margin: auto;
 }
 
-.product h2 {
+.pricing h2 {
   font-size: 4rem;
   line-height: 1.2;
   margin-bottom: 3rem;
 }
 
-.product p {
+.pricing p {
   font-size: 1.6rem;
   margin-bottom: 2rem;
 }
 
-.product section a {
+.pricing section a {
   margin-top: 2rem;
-}
-
-.icons {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  gap: 20px;
-  width: 100%;
-  align-items: center;
-  font-size: 17px;
 }

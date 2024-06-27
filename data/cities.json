@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "id": "2b0d",
-      "cityName": "Terrasson-Lavilledieu",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-06-07T14:34:29.458Z",
-      "notes": "",
-      "position": {
-        "lat": 45.12715354748949,
-        "lng": 1.3032317161560059
-      }
-    },
-    {
       "id": "ca53",
       "cityName": "Nairobi",
       "country": "Kenya",
@@ -22,18 +10,6 @@
       "position": {
         "lat": -1.3511930983018765,
         "lng": 36.79321289062501
-      }
-    },
-    {
-      "id": "a451",
-      "cityName": "Amalfi",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2024-06-07T14:59:35.270Z",
-      "notes": "",
-      "position": {
-        "lat": 40.62333412763723,
-        "lng": 14.584350585937502
       }
     },
     {
@@ -157,18 +133,6 @@
       }
     },
     {
-      "id": "16e3",
-      "cityName": "Bulong",
-      "country": "Australia",
-      "emoji": "🇦🇺",
-      "date": "2024-06-27T21:49:38.174Z",
-      "notes": "",
-      "position": {
-        "lat": -30.887558832777355,
-        "lng": 122.1432685323114
-      }
-    },
-    {
       "id": "2e4d",
       "cityName": "Forrest",
       "country": "Australia",
@@ -190,6 +154,42 @@
       "position": {
         "lat": 35.6062001249281,
         "lng": 138.47607837487092
+      }
+    },
+    {
+      "id": "29f7",
+      "cityName": "In Salah",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-06-27T21:55:50.042Z",
+      "notes": "",
+      "position": {
+        "lat": 27.68352808378776,
+        "lng": 2.5488281250000004
+      }
+    },
+    {
+      "id": "0599",
+      "cityName": "Ambararatabe",
+      "country": "Madagascar",
+      "emoji": "🇲🇬",
+      "date": "2024-06-27T21:55:59.454Z",
+      "notes": "",
+      "position": {
+        "lat": -18.999802829053262,
+        "lng": 46.16455078125001
+      }
+    },
+    {
+      "id": "ece9",
+      "cityName": "San Luis Obispo",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-27T21:56:18.078Z",
+      "notes": "",
+      "position": {
+        "lat": 35.241132781666444,
+        "lng": -120.64636230468751
       }
     }
   ]

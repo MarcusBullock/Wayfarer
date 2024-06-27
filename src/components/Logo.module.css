@@ -8,14 +8,20 @@
   display: flex;
   flex-direction: row;
   align-items: center;
+  position: relative;
 }
 
 .logoText {
   color: #fff;
-  font-size: 30px;
+  font-size: 36px;
   text-decoration: none;
-  font-family: "Courgette", cursive;
-  font-weight: 600;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
   font-style: normal;
-  padding-top: 1rem;
+  font-variation-settings: "slnt" 0;
+  position: absolute;
+  left: 10;
+  margin-left: 130px;
+  padding-top: 1.2rem;
 }
