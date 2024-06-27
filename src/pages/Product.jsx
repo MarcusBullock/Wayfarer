@@ -11,7 +11,7 @@ export default function Product() {
           alt="person with dog overlooking mountain with sunset"
         />
         <div>
-          <h2>About WorldWise.</h2>
+          <h2>About Wayfarer.</h2>
           <p>
             We are a company that passionately sells the things that you buy. We
             are a provider of real services to real people at all times of day.

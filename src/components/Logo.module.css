@@ -1,3 +1,21 @@
 .logo {
   height: 5.2rem;
+  width: 150px;
+  height: 150px;
+}
+
+.wrap {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.logoText {
+  color: #fff;
+  font-size: 30px;
+  text-decoration: none;
+  font-family: "Courgette", cursive;
+  font-weight: 600;
+  font-style: normal;
+  padding-top: 1rem;
 }

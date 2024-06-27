@@ -6,7 +6,7 @@
       "country": "France",
       "emoji": "🇫🇷",
       "date": "2024-06-07T14:34:29.458Z",
-      "notes": "Eggs de von thomas",
+      "notes": "",
       "position": {
         "lat": 45.12715354748949,
         "lng": 1.3032317161560059
@@ -18,7 +18,7 @@
       "country": "Kenya",
       "emoji": "🇰🇪",
       "date": "2024-06-07T14:52:47.061Z",
-      "notes": "poo",
+      "notes": "",
       "position": {
         "lat": -1.3511930983018765,
         "lng": 36.79321289062501
@@ -30,7 +30,7 @@
       "country": "Italy",
       "emoji": "🇮🇹",
       "date": "2024-06-07T14:59:35.270Z",
-      "notes": "eggs",
+      "notes": "",
       "position": {
         "lat": 40.62333412763723,
         "lng": 14.584350585937502
@@ -42,7 +42,7 @@
       "country": "Tunisia",
       "emoji": "🇹🇳",
       "date": "2024-06-07T15:16:46.193Z",
-      "notes": "eggs",
+      "notes": "",
       "position": {
         "lat": 36.787291466820015,
         "lng": 10.178833007812502
@@ -118,6 +118,78 @@
       "position": {
         "lat": 51.467696956223385,
         "lng": -0.15380859375000003
+      }
+    },
+    {
+      "id": "e0dd",
+      "cityName": "Ruthsburg",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-27T21:49:28.205Z",
+      "notes": "",
+      "position": {
+        "lat": 38.98246662967245,
+        "lng": -75.94360936235385
+      }
+    },
+    {
+      "id": "0053",
+      "cityName": "Camacupa",
+      "country": "Angola",
+      "emoji": "🇦🇴",
+      "date": "2024-06-27T21:49:32.008Z",
+      "notes": "",
+      "position": {
+        "lat": -12.363709308097588,
+        "lng": 17.716001926578894
+      }
+    },
+    {
+      "id": "9b5f",
+      "cityName": "Dabee",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-06-27T21:49:35.719Z",
+      "notes": "",
+      "position": {
+        "lat": -32.82405911218013,
+        "lng": 150.03257611600282
+      }
+    },
+    {
+      "id": "16e3",
+      "cityName": "Bulong",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-06-27T21:49:38.174Z",
+      "notes": "",
+      "position": {
+        "lat": -30.887558832777355,
+        "lng": 122.1432685323114
+      }
+    },
+    {
+      "id": "2e4d",
+      "cityName": "Forrest",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-06-27T21:49:40.772Z",
+      "notes": "",
+      "position": {
+        "lat": -31.33854999804283,
+        "lng": 126.70142799967203
+      }
+    },
+    {
+      "id": "f891",
+      "cityName": "Minami-Alps",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2024-06-27T21:49:45.368Z",
+      "notes": "",
+      "position": {
+        "lat": 35.6062001249281,
+        "lng": 138.47607837487092
       }
     }
   ]
