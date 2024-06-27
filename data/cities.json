@@ -73,42 +73,6 @@
       }
     },
     {
-      "id": "75ea",
-      "cityName": "Piscataway",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2024-06-27T20:35:13.665Z",
-      "notes": "",
-      "position": {
-        "lat": 38.685509760012025,
-        "lng": -76.99218750000001
-      }
-    },
-    {
-      "id": "4c25",
-      "cityName": "Driftwood",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2024-06-27T20:35:17.511Z",
-      "notes": "",
-      "position": {
-        "lat": 40.17887331434698,
-        "lng": -100.67871093750001
-      }
-    },
-    {
-      "id": "afd1",
-      "cityName": "West Santa Clara",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2024-06-27T20:35:19.711Z",
-      "notes": "",
-      "position": {
-        "lat": 37.33522435930641,
-        "lng": -122.12402343750001
-      }
-    },
-    {
       "id": "7dc7",
       "cityName": "Texcoco de Mora",
       "country": "Mexico",
@@ -118,6 +82,42 @@
       "position": {
         "lat": 19.476950206488414,
         "lng": -98.74511718750001
+      }
+    },
+    {
+      "id": "9f8b",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-06-27T20:40:34.610Z",
+      "notes": "",
+      "position": {
+        "lat": 41.64007838467894,
+        "lng": 12.568359375000002
+      }
+    },
+    {
+      "id": "54ea",
+      "cityName": "Velika Gorica",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2024-06-27T20:40:40.035Z",
+      "notes": "",
+      "position": {
+        "lat": 45.690832836458185,
+        "lng": 16.062011718750004
+      }
+    },
+    {
+      "id": "6cd0",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-06-27T20:41:02.843Z",
+      "notes": "",
+      "position": {
+        "lat": 51.467696956223385,
+        "lng": -0.15380859375000003
       }
     }
   ]
