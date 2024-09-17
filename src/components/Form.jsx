@@ -45,7 +45,6 @@ function Form() {
                         `${BASE_URL}?latitude=${lat}&longitude=${lng}`
                     );
                     const data = await response.json();
-                    console.log(data);
                     if (!data.countryCode) throw new Error("That's water.");
                     setCityName(data.city || data.locality || "");
                     setCountryName(data.countryName);
@@ -72,10 +71,8 @@ function Form() {
             emoji,
             date,
             notes,
-            position: {
-                lat: Number(lat),
-                lng: Number(lng),
-            },
+            lat: Number(lat),
+            lng: Number(lng),
         };
 
         await createCity(city);
